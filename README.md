@@ -1,4 +1,13 @@
 - 👋 Hi, I’m @jgabryszewski01
-- 👀 I’m interested in Informatics
-- 🌱 I’m currently studying Informatics and Econometrics: IT Applications in Business at the University of Gdańsk
+- 22yo and interested in programming
+- I’m currently studying Informatics and Econometrics: IT Applications in Business in the 4th semester at the University of Gdańsk
+- 🤝 Languages:
+-   Polish - native
+-   English - advanced
+-   German - intermediate low
+- Programming skills:
+-   Java ⭐⭐⭐
+-   C# ⭐⭐
+-   Python ⭐⭐
+-   JS, HTML and CSS ⭐
 - 📫 How to reach me - jgabryszewski01@gmail.com
