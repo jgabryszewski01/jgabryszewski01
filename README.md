@@ -11,7 +11,7 @@
 -   Java ⭐⭐⭐
 -   C# ⭐⭐
 -   Python ⭐⭐
--   SQL ⭐
+-   SQL ⭐⭐
 -   Linux ⭐
 -   JS, HTML and CSS ⭐
 -   Teamwork ⭐⭐⭐⭐⭐
